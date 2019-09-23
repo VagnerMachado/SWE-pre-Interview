@@ -1,7 +1,7 @@
 
 package pack;
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Arrays; 
 
 /**                                                         
  * These questions were asked during a pre-interview for an internship as SWE.
