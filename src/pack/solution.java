@@ -7,7 +7,7 @@ import java.util.Arrays;
  * These questions were asked during a pre-interview for an internship as SWE.
  * Correctness was emphasized over efficiency.
  * 
- * @author Vagner Machado
+ * @author Vagner Machado - September 2019
  */
 class solution
 {
@@ -17,12 +17,6 @@ class solution
 		Integer [] xx = {1,2,5,7,8,9,10,6,2,};
 		Integer [] arr = solution1(xx,2);
 		System.out.println("Highest sequence: " + Arrays.toString(arr));
-
-		//Test
-		//		String l = new String ("aXbbXcccX dddd                   XeeeXee");
-		//		String [] lNew = l.split("\\s+"); //one or more spaces
-		//		System.out.println(Arrays.toString(lNew) + " with length " + lNew.length);
-
 
 		String x = "abcd,aabc,bd";
 		String y = "aaa,aa,bdf";
